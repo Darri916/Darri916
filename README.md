@@ -2,9 +2,12 @@
 
 **Data Science | Machine Learning | Python**
 
-Building a strong foundation through consistent, project-driven learning focused on predictive modeling, data analysis, and model improvement.
-Focused on depth, discipline, and long-term growth in intelligent systems.
-Currently focused on end-to-end ML projects — from data to deployment.
+Final-year Data Science undergraduate building end-to-end machine learning 
+solutions through consistent, project-driven work — from data exploration 
+and modeling to evaluation and deployment.
+
+Committed to depth over breadth: every project is built clean, documented 
+properly, and pushed to completion.
 
 **Tech:** Python · R · Pandas · NumPy · Scikit-learn · XGBoost · SHAP · 
 Streamlit · FastAPI · Matplotlib · SQL
