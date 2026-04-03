@@ -1,13 +1,14 @@
 # Darranya Koneswaran
 
-**Data Science | Machine Learning | Future ML Engineer**
+**Data Science | Machine Learning | Python**
 
-Building a strong foundation through consistent, project-driven learning focused on predictive modeling, data analysis, and model improvement.
+Final-year Data Science undergraduate building end-to-end ML projects — 
+from predictive modeling and anomaly detection to interactive dashboards and deployed apps.
 
-Focused on depth, discipline, and long-term growth in intelligent systems.
+Interested in solving real-world problems through data — currently exploring 
+explainability (SHAP), churn prediction, and face recognition systems.
 
-**Tech:** Python · R · Pandas · NumPy · Scikit-learn · Matplotlib
-
-📍 Actively seeking Data Science / ML internships
-📫 [darranyakoneswaran@gmail.com](mailto:darranyakoneswaran@gmail.com)
-🔗 [www.linkedin.com/in/darranya-k](http://www.linkedin.com/in/darranya-k)
+**Tech:** Python · R · Pandas · NumPy · Scikit-learn · XGBoost · SHAP · 
+Streamlit · FastAPI · Matplotlib · SQL
+![Darranya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darri916&show_icons=true&hide_border=true&theme=default)
+📍 Jaffna, Sri Lanka &nbsp;|&nbsp; 📫 [darranyakoneswaran@gmail.com](mailto:darranyakoneswaran@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/darranya-k)
