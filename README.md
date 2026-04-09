@@ -12,6 +12,6 @@ properly, and pushed to completion.
 **Tech:** Python · R · Pandas · NumPy · Scikit-learn · XGBoost · SHAP · 
 Streamlit · FastAPI · Matplotlib · SQL
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Darri916&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Darri916&hide_border=true)](https://git.io/streak-stats) -->
 
 📍 Jaffna, Sri Lanka  📫 [darranyakoneswaran@gmail.com](mailto:darranyakoneswaran@gmail.com)  🔗 [www.linkedin.com/in/darranya-k](http://www.linkedin.com/in/darranya-k)
